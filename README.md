@@ -2,6 +2,8 @@
 
 This is my personal portfolio. 
 
+Here is the second sentence. 
+
 <!--
 **dianamyriel/dianamyriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
